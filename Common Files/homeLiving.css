@@ -42,7 +42,6 @@ main > aside{
     "one two"
     "three four"
     "five six";
-    
     row-gap: 5rem;
     column-gap: 1rem;
 }
