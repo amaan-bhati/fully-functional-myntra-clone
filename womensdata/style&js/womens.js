@@ -522,12 +522,8 @@ womensData.map(function(element) {
     });
     
     
-    // Total
 
 }
-
-
-
 function addToWishlist(element) {
 wishList.push(element);
 localStorage.setItem("wishListObj", JSON.stringify(wishList));
