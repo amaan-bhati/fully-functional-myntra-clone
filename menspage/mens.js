@@ -10,6 +10,7 @@ var productData = [{
     atw: "Add to Whishlist",
     category: "Casual Shoes",
 
+    
 }, {
     image_url: "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/13031344/2021/2/15/edb298bb-2c55-4b17-be70-b99fa7da98af1613389238510-US-Polo-Assn-Men-Navy-Blue-Printed-Sliders-7711613389237151-1.jpg ",
     brand: "U.S. Polo Assn.",

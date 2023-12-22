@@ -16,8 +16,6 @@ body {
     font-family: var(--primaryFont);
     scroll-behavior: smooth;
 }
-
-
 #confirm {
     font-size: 1.5rem;
     margin: auto;

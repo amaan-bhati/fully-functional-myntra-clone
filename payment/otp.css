@@ -14,7 +14,6 @@ body{
     font-family: var(--primaryFont);
     scroll-behavior: smooth;
 }
-
 #otpDiv{
     width:30%;
     margin: auto;

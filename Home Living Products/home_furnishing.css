@@ -8,9 +8,6 @@
 .filter{
     padding: 10px 20px;
   }
-
-
-
 *{
     box-sizing: border-box;
 }
@@ -20,7 +17,6 @@
     gap: 3rem;
 }
 
-/* filter */
 #filter {
     height: 100%;
     width: 23%;

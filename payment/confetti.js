@@ -14,7 +14,6 @@ var confetti = {
 	isPaused: null,		//call and returns true or false depending on whether the confetti animation is paused
 	isRunning: null		//call and returns true or false depending on whether the animation is running
 };
-
 (function() {
 	confetti.start = startConfetti;
 	confetti.stop = stopConfetti;
